@@ -1,6 +1,6 @@
 import { HomePage } from "../../../feature/page/home";
 
-function App() {
+export function App() {
   return (
     <div className="container">
       <HomePage></HomePage>
