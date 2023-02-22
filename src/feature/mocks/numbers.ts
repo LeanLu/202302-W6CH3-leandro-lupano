@@ -1,4 +1,4 @@
-export const NUMBERS: string[] = [
+export const MOCK_NUMBERS: string[] = [
   "1",
   "2",
   "3",
